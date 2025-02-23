@@ -10,9 +10,9 @@
 - 💡 [Usage](#usage)  
 - 🧩 [Technologies Used](#technologies-used)  
 
----
 
-## 🗂️ **Project Structure**  
+
+## 🗂️ <a name="project-structure"></a> **Project Structure**  
 - **index.html**: Homepage titled *KPIN - One link-in-bio*  
 - **bio.html**: Comparison page *Bio.fm vs Kpin*  
 - **linktree.html**: Comparison page *Linktree vs Kpin*  
@@ -22,9 +22,9 @@
   - **js/**: Bootstrap, Google Maps, jQuery, and custom scripts (mobster.js)  
   - **vendor/**: External libraries - Animate.css, Owl Carousel, and WOW.js  
 
----
 
-## 🚀 **Getting Started**  
+
+## 🚀 <a name="getting-started"></a> **Getting Started**  
 1. **Clone the Repository:**  
 ```bash
 git clone https://github.com/swarangi263/InternshipK-gh-pages.git
@@ -41,16 +41,16 @@ start index.html   # Windows
 
 *(Alternatively, use a local server for better compatibility)*  
 
----
 
-## 💡 **Usage**  
+
+## 💡 <a name="usage"></a> Usage  
 - The website is responsive and optimized for different devices.  
 - Navigate between pages to explore comparisons with Bio.fm and Linktree.  
 - Interactive elements include animations, sliders, and Google Maps integration.
 
----
 
-## 🧩 **Technologies Used**  
+
+## 🧩 <a name="technologies-used"></a> **Technologies Used**  
 - **HTML5:** Structure and content of the webpage  
 - **CSS3:** Styling using Bootstrap, Animate.css, and custom styles (mobster.css)  
 - **JavaScript:** Interactive features with jQuery, WOW.js, and Owl Carousel  
